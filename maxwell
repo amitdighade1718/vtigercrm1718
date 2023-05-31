@@ -13,6 +13,12 @@
   			<input type="text" name="un"><br><br>
   			<label>Email Id</label>
   			<input type="Email" name="eml"><br><br>
+  				<input type="text" name="un"><br><br>
+  			<label>Email Id</label>
+  			<input type="Email" name="eml"><br><br>
+  				<input type="text" name="un"><br><br>
+  			<label>Email Id</label>
+  			<input type="Email" name="eml"><br><br>
   			<label>Phone number</label>
   			<input type="text" name="phn">
   			<input type="Submit" name="sbt" value="Submit">
