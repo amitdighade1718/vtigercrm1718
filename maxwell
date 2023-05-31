@@ -1,0 +1,24 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Form Tag1</title>
+</head>
+<body>
+  <div>
+  	<form>
+  		<fieldset>
+  			<legend align="center	" >Registration form</legend><br>
+  			<label>Username</label>
+  			<input type="text" name="un"><br><br>
+  			<label>Email Id</label>
+  			<input type="Email" name="eml"><br><br>
+  			<label>Phone number</label>
+  			<input type="text" name="phn">
+  			<input type="Submit" name="sbt" value="Submit">
+  			<input type="reset" name="cancel" value="Cancel">
+  		</fieldset>
+  	</form>
+  </div>
+</body>
+</html>
