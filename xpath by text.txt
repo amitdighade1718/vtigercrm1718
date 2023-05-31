@@ -1,0 +1,17 @@
+              
+$$  xpath by text  $$
+
+
+  || SYNTAX ||
+
+//tagname[text()='textvalue']
+
+1]it support text and linktext
+2]complete text value
+3]it is case sensitive
+
+1] Grocery    : //div[text()='Grocery']
+2] Mobile     : //div[text()='Mobiles']
+3] Appliance  : //div[text()='Appliances']
+4] Travel     : //div[text()='Travel']
+5] Topoffer   : //div[text()='Top Offers']
